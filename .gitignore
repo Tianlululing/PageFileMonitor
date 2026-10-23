@@ -1,0 +1,13 @@
+# 构建产物
+bin/
+obj/
+publish/
+
+# Visual Studio / Rider 用户文件
+.vs/
+*.user
+*.suo
+*.DotSettings.user
+
+# 冒烟测试产物
+window.png
